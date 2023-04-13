@@ -35,3 +35,4 @@
 </div>
 
   ![Snake animation](https://github.com/djavanc/djavanc/blob/output/github-contribution-grid-snake.svg)
+

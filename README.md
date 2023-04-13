@@ -2,7 +2,6 @@
 
 - 💻 Graduating in Computer Engineering from the Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, Campus Birigui (2019-2023).
 - 🌱 I’m currently learning REACT
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: beatlemaniac addicted
 
 <div align="center" style="display: inline_block"><br>

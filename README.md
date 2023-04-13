@@ -39,4 +39,4 @@
   
 </div>
   
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/26bee59b494945929a6df788ffae796ec349d00382736021b71be4d00e9deed5/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d446176693430373630313826636f6c6f723d626c756576696f6c6574"><img src="https://camo.githubusercontent.com/26bee59b494945929a6df788ffae796ec349d00382736021b71be4d00e9deed5/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d446176693430373630313826636f6c6f723d626c756576696f6c6574" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=djavanc&amp;color=green" style="max-width: 100%;"></a>
+ [![](https://visitcount.itsvg.in/api?id=djavanc&label=Profile%20Views&color=6&icon=2&pretty=false)](https://visitcount.itsvg.in)
